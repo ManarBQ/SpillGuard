@@ -65,6 +65,4 @@ The preprocessing pipeline applies Lee filtering, logarithmic backscatter transf
 
 The accompanying study reports ConvNeXt-Tiny as the strongest evaluated backbone, achieving 95.62% accuracy, 97.20% Oil-class recall, and 99.42% AUC-ROC on the held-out test set.
 
-## Important note
 
-This repository contains research code and is not an operational spill-alerting system. Performance on the benchmark dataset does not establish performance on Arabian Gulf imagery or other unseen environments.
